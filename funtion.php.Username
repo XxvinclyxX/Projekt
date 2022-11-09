@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<body>
+ if(empty(trim($_POST["username"]))){
+        $username_err = "Please enter username.";
+    } else{
+        $username = trim($_POST["username"]);
+    }
+</body>
+</html>
