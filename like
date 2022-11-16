@@ -1,0 +1,21 @@
+<?php
+function likehinzufuegen ($user,$post){
+
+$button = fponit (Bildleer)
+
+if ($button) { oncliked than  
+
+$data = fopen (likes.txt);
+
+$likes = fgets ($data);
+
+$likes = $likes + 1;
+
+fwrite($data,$likes);
+
+$button = fponit (Bildrot)
+
+}
+
+}
+?>
